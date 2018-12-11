@@ -123,7 +123,18 @@
 
 - --commiter : 查看指定提交者的日志信息
 
+**修改最近一次commit**
 
+	git commit --amend
+
+**丢弃最新的提交**
+
+最新一次的commit的内容有问题，想要丢弃这次提交，
+
+	涉及到的命令： git reset
+
+
+	
 ## 其他 ##
 **如何通过免密码克隆及推送**
 
@@ -137,6 +148,7 @@
 
 ----文档参考 : [https://files.cnblogs.com/files/ma6174/git-tutor.pdf](https://files.cnblogs.com/files/ma6174/git-tutor.pdf)
 
+----参考文档：[https://mp.weixin.qq.com/s/K7004_PVFW0kj8vcFh0s6Q](https://mp.weixin.qq.com/s/K7004_PVFW0kj8vcFh0s6Q)
 	 
 
 
