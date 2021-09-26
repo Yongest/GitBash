@@ -41,7 +41,9 @@
 **6.** 如果出现冲突,必须手动解决冲突后再执行提交到到服务器的git仓库
 
 	git push origin master
-
+	
+**7.** 创建zhang分支,并且切换到zhang分支
+	git checkout -b zhang
 
 ### branch(分支)合并提交 ###
 
