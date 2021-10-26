@@ -11,9 +11,9 @@
 - **master(主支) + branch(分支)**
 - **branch(分支) + branch(其他成员分支) 合并提交**
 
-#### 创建并切换到新分支zhang
+### 创建并切换到新分支zhang
+- **git checkout -b zhang**
 
-- ** git checkout -b zhang **
 ### master(主支)合并提交 操作步骤 ###
 
 在控制台输出: 
