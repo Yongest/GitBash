@@ -46,6 +46,8 @@
 	
 **7.** 创建zhang分支,并且切换到zhang分支
 	git checkout -b zhang
+	
+**7.** git show  commit的hash值
 
 ### branch(分支)合并提交 ###
 
