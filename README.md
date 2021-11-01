@@ -13,6 +13,8 @@
 
 ### 创建并切换到新分支zhang
 - **git checkout -b zhang**
+### 删除远程分支zhang
+- **git push origin --delete zhang**
 
 ### master(主支)合并提交 操作步骤 ###
 
